@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WUSL GPA</string>
+    <string name="add_student_activity_title">Add Students</string>
 </resources>
